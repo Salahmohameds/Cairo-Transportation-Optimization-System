@@ -1,0 +1,11 @@
+facility_id,node_id,type,name,capacity
+F1,101,airport,Cairo International Airport,50000
+F2,102,transit_hub,Ramses Railway Station,100000
+F3,103,education,Cairo University,40000
+F4,104,education,Al-Azhar University,35000
+F5,105,tourism,Egyptian Museum,10000
+F6,106,sports,Cairo International Stadium,75000
+F7,107,business,Smart Village,20000
+F8,108,commercial,Cairo Festival City,30000
+F9,109,medical,Qasr El Aini Hospital,2000
+F10,110,medical,Maadi Military Hospital,1500 
