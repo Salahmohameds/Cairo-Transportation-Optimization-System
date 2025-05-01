@@ -1,0 +1,16 @@
+id,name,type,x,y,population
+1,Downtown,commercial,30.0444,31.2357,50000
+2,Maadi,residential,29.9602,31.2569,75000
+3,Heliopolis,residential,30.1299,31.3299,60000
+4,Nasr City,residential,30.0571,31.3302,80000
+5,Zamalek,residential,30.0571,31.2245,40000
+6,Mohandessin,commercial,30.0571,31.1989,45000
+7,6th of October,industrial,30.0074,30.9773,30000
+8,New Cairo,residential,30.0074,31.4913,100000
+9,Ain Shams,residential,30.1299,31.3299,55000
+10,Shoubra,residential,30.1299,31.2569,65000
+11,El-Salam Hospital,medical,30.1299,31.3299,0
+12,Police Station,emergency,30.0571,31.2245,0
+13,Fire Station,emergency,30.0074,30.9773,0
+14,Central Bus Station,transit,30.0444,31.2357,0
+15,Metro Station,transit,30.0571,31.2245,0 

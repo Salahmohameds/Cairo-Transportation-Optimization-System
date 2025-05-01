@@ -1,0 +1,7 @@
+numpy>=1.21
+pandas>=1.4
+matplotlib>=3.5
+networkx>=2.8
+scipy>=1.7.0
+folium>=0.12
+plotly>=5.8 
