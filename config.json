@@ -1,0 +1,40 @@
+{
+    "data_files": {
+        "nodes": "data/raw/nodes.csv",
+        "roads": "data/raw/roads.csv",
+        "facilities": "data/raw/facilities.csv",
+        "traffic": "data/raw/traffic.csv",
+        "public_transit": "data/raw/public_transit.csv",
+        "transit_demand": "data/raw/transit_demand.csv",
+        "potential_roads": "data/raw/potential_roads.csv"
+    },
+    "example_routes": {
+        "start": 1,
+        "end": 3,
+        "time_of_day": "morning"
+    },
+    "emergency_routes": {
+        "location": 5,
+        "facility_type": "medical"
+    },
+    "transit_routes": {
+        "example_route": [1, 3, 6, 9],
+        "demand_data": {
+            "1": {"morning": 1200, "afternoon": 800, "evening": 1000},
+            "3": {"morning": 1800, "afternoon": 1200, "evening": 1500},
+            "6": {"morning": 700, "afternoon": 400, "evening": 600},
+            "9": {"morning": 1300, "afternoon": 800, "evening": 1100}
+        }
+    },
+    "visualization": {
+        "node_size": 200,
+        "edge_width": 1,
+        "highlight_width": 3,
+        "figure_size": [15, 12]
+    },
+    "infrastructure_planning": {
+        "budget_limit": 5000,
+        "priority_areas": [4, 13],
+        "congestion_threshold": 0.8
+    }
+} 
